@@ -1,9 +1,13 @@
 # jesusarielgb-works
 
-Open-source frameworks, books, manuals, research and standards by **Jesus Ariel Gonzalez Bonilla**.
+Open-source frameworks, standards, books and research by **Jesús Ariel González Bonilla**.
 
-All works MIT licensed. Catalog auto-generated nightly from GitHub Topics.
+| Work | Type | Version | Description |
+|------|------|---------|-------------|
+| [microservices-governance-framework](https://github.com/jesusarielgb-works/microservices-governance-framework) | framework | v1.0.0 | A complete microservices governance framework — documentation templates, ADRs, OpenAPI contracts, TDD strategy, DevOps, and stack guides. MIT Licensed. |
+| [monolith-governance-framework](https://github.com/jesusarielgb-works/monolith-governance-framework) | framework | v2.0.0 | Governance framework and standards for monolithic software systems — MIT |
 
-**13 domains:** architecture · data · devops · security · api · testing · backend · frontend · ai · quality · education · project · research
+Each repository states its own license. Rules in the frameworks cite the verified records of the
+[engineering casebook](https://github.com/jesusarielgb-works/engineering-casebook).
 
-[View full catalog](https://jesusarielgb-works.github.io/catalog)
+[Full catalog](https://jesusarielgb-works.github.io/catalog)
